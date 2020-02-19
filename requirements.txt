@@ -1,0 +1,7 @@
+flask
+flask-restful
+Jinja2
+pytorch
+numpy
+matplotlib
+opencv
